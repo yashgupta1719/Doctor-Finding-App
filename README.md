@@ -17,5 +17,5 @@ Developers:
 
 - Laxman Chandrasali
 - Ayush Raj Singh
-- Yasharath Gupta
+- Yasharth Gupta
 - Manish Srivastava
